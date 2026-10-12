@@ -9,7 +9,7 @@ Systems and cloud administration in training. Former desktop support engineer an
 ## What's here
 
 - **[azure-home-lab](https://github.com/KyleG6495/azure-home-lab)** - The main event. An Azure environment built from nothing: Windows Server domain, Entra ID, Linux, Defender for Cloud, backup, monitoring, and scripts. Every step written up with what broke and how I fixed it.
-- **DFS modeling** - Python pipelines for daily fantasy sports: data ingestion, projections, lineup optimization. My longest-running personal project and where I learned to ship working code.
+- **[mlb-script](https://github.com/KyleG6495/mlb-script)** - Python pipelines for daily fantasy sports: data ingestion, projections, lineup optimization. My longest-running personal project and where I learned to ship working code.
 
 ## Background
 
