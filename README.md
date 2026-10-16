@@ -1,15 +1,15 @@
 # Kyle Goneau
 
-Systems and cloud administration in training. Former desktop support engineer and help desk lead, then 23 years running a business. Back on the technical side and rebuilding my skills in public.
+Former desktop support engineer and help desk lead, then 23 years running a business. Back on the technical side and rebuilding my skills in public.
 
-**Now:** IT Security and Administration program at MyComputerCareer. Working toward AZ-104, Security+, and Network+.  
-**Direction:** systems administration first, then Azure security and cloud engineering.  
-**Available:** March 2027, Tampa Bay area or remote.
+**Now:** IT Security and Administration program at MyComputerCareer (evening cohort). Working toward AZ-104, Security+, and Network+.
+**Direction:** desktop support or help desk tier 2 now, systems administration next, then Azure security and cloud engineering.
+**Available:** immediately. Tampa Bay area, on-site or remote.
 
 ## What's here
 
-- **[azure-home-lab](https://github.com/KyleG6495/azure-home-lab)** - The main event. An Azure environment built from nothing: Windows Server domain, Entra ID, Linux, Defender for Cloud, backup, monitoring, and scripts. Every step written up with what broke and how I fixed it.
-- **[mlb-script](https://github.com/KyleG6495/mlb-script)** - Python pipelines for daily fantasy sports: data ingestion, projections, lineup optimization. My longest-running personal project and where I learned to ship working code.
+- **[azure-home-lab](https://github.com/KyleG6495/azure-home-lab)** — The main event. An Azure environment built from nothing: virtual network, subnets, NSG, Windows Server 2022 domain controller with Active Directory and DNS so far, with Entra ID, Linux, Defender for Cloud, backup, monitoring, and scripts to come. Every step written up with what broke and how I fixed it.
+- **[mlb-script](https://github.com/KyleG6495/mlb-script)** — Python pipelines for daily fantasy sports: data ingestion, projections, lineup optimization. My longest-running personal project and where I learned to ship working code.
 
 ## Background
 
@@ -19,4 +19,4 @@ I know what it looks like when technology fails a business on a Friday night. I 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/kyle-goneau-4728a187/) | kgoneau@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kyle-goneau-4728a187/) · kgoneau@gmail.com
