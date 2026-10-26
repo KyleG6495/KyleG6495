@@ -1,22 +1,79 @@
-# Kyle Goneau
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22KyleG6495%22%2C%22name%22%3A%22%22%2C%22email%22%3A%22%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
-Former desktop support engineer and help desk lead, then 23 years running a business. Back on the technical side and rebuilding my skills in public.
+<div align="center">
 
-**Now:** IT Security and Administration program at MyComputerCareer (evening cohort). Working toward AZ-104, Security+, and Network+.
-**Direction:** desktop support or help desk tier 2 now, systems administration next, then Azure security and cloud engineering.
-**Available:** immediately. Tampa Bay area, on-site or remote.
+<img src="https://github.com/KyleG6495.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-## What's here
+# Hi there, I'm Your Name
 
-- **[azure-home-lab](https://github.com/KyleG6495/azure-home-lab)** — The main event. An Azure environment built from nothing: virtual network, subnets, NSG, Windows Server 2022 domain controller with Active Directory and DNS so far, with Entra ID, Linux, Defender for Cloud, backup, monitoring, and scripts to come. Every step written up with what broke and how I fixed it.
-- **[mlb-script](https://github.com/KyleG6495/mlb-script)** — Python pipelines for daily fantasy sports: data ingestion, projections, lineup optimization. My longest-running personal project and where I learned to ship working code.
+**Your Name**
 
-## Background
+*ITSA Student*
 
-Desktop support, executive client care, and help desk training at Sarcom (2000 to 2002), on contract at Thomson Consumer Electronics. CompTIA A+ and Microsoft MCP from that era. Then owner and operator of a Beef 'O' Brady's franchise in Bradenton, Florida for over two decades, where I was also the guy who fixed the POS, the wifi, and the cameras.
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40KyleG6495-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KyleG6495)
 
-I know what it looks like when technology fails a business on a Friday night. I stay calm and I fix it.
+</div>
 
-## Contact
+---
 
-[LinkedIn](https://www.linkedin.com/in/kyle-goneau-4728a187/) · kgoneau@gmail.com
+## Professional Summary
+
+*Add your professional summary above to display it here.*
+
+---
+
+## Skills Learned
+
+*Select skills in the builder to display them here.*
+
+---
+
+## Course Portfolio
+
+<details>
+<summary><strong>Course 1: Networking I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 3: Operating Systems I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 4: Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 5: Server I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 6: Networking & Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+---
+
+<div align="center">
+<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
+</div>
