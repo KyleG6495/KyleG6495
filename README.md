@@ -26,8 +26,8 @@
 |------|--------|
 | 1. Virtual network, subnets, NSG, budget | ✅ Done |
 | 2. Windows Server domain controller, AD, GPO, domain join | ✅ Done |
-| 3. Entra ID, MFA, conditional access | 🔧 Next |
-| 4. Linux server, SSH hardening, Bash | ⬜ |
+| 3. Entra ID, cloud users, MFA enrollment | ✅ Done |
+| 4. Linux server, SSH hardening, Bash | 🔧 Next |
 | 5. Defender for Cloud, just-in-time access | ⬜ |
 | 6. Backup and restore | ⬜ |
 | 7. Monitoring and alerts | ⬜ |
@@ -54,9 +54,9 @@
 
 | | Status |
 |---|---|
+| Microsoft Certified: Azure AI Fundamentals (AI-900) | ✅ Certified (Oct 2026) |
 | CompTIA A+ | ✅ Certified (lifetime) |
 | Microsoft Certified Professional, Windows NT 4.0 | ✅ Certified |
-| Microsoft AI-901, Azure AI Fundamentals | 📚 In progress |
 | Microsoft AZ-104, Azure Administrator | 📚 In progress |
 | CompTIA Network+ | 📚 In progress |
 | CompTIA Security+ | 📚 In progress |
