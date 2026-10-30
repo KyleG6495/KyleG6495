@@ -20,7 +20,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=KyleG6495&repo=azure-home-lab&theme=default&hide_border=true" />
 </a>
 
-**[Azure Home Lab](https://github.com/KyleG6495/azure-home-lab)**, a company network built from nothing and written up step by step: what I built, why, what broke, and how I fixed it.
+**[Azure Home Lab](https://github.com/KyleG6495/azure-home-lab)** is a company network built from the ground up and documented step by step: what I built, why, what broke, and how I fixed it.
 
 | Step | Status |
 |------|--------|
