@@ -29,9 +29,13 @@
 | 3. Entra ID, cloud users, MFA enrollment | ✅ Done |
 | 4. Linux server, nginx, ufw, SSH hardening, Bash | ✅ Done |
 | 5. Defender for Servers, just-in-time VM access | ✅ Done |
-| 6. Backup and restore | 🔧 Next |
-| 7. Monitoring and alerts | ⬜ |
-| 8. PowerShell and Bash automation | ⬜ |
+| 6. Linux joined to the Windows domain (realmd, sssd, Kerberos) | ✅ Done |
+| 7. Permissions, AD-group access control, scheduled jobs | ✅ Done |
+| 8. Service troubleshooting from the logs | ✅ Done |
+| 9. Samba share controlled by Active Directory | ✅ Done |
+| 10. Backup and restore | 🔧 Next |
+| 11. Monitoring and alerts | ⬜ |
+| 12. PowerShell and Bash automation | ⬜ |
 
 <br clear="right"/>
 
@@ -44,6 +48,8 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Virtual Networks](https://img.shields.io/badge/VNet%20%2F%20NSG-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Ubuntu%20%2F%20Bash-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Samba](https://img.shields.io/badge/Samba%20%2F%20SMB-CC0000?style=flat-square&logo=samba&logoColor=white)
+![Kerberos](https://img.shields.io/badge/Kerberos%20%2F%20sssd-4B275F?style=flat-square&logo=redhat&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2010%2F11-0078D6?style=flat-square&logo=windows11&logoColor=white)
 ![RDP](https://img.shields.io/badge/Remote%20Desktop-5C2D91?style=flat-square&logo=windows&logoColor=white)
